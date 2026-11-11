@@ -15,6 +15,11 @@ A collection of practical documents and written portfolio samples prepared by **
 
 This repository provides examples of professional writing, structured documentation, project planning, and technology-related case-study work.
 
+
+## Public Sharing Check
+
+Some included documents contain named organizations, client-style scenarios, contact details, and quantified outcomes. Before using them in job applications or public proposals, confirm that each detail is accurate and that disclosure is permitted. If a scenario or result is illustrative, label that individual document clearly as simulated. The repository-level disclaimer does not independently verify client work or reported results.
+
 ## Developer
 
 **Zulqarnain Khan Jadoon**  
